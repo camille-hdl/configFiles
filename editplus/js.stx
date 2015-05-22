@@ -13,6 +13,7 @@
 #ESCAPE=\
 #CASE=y
 #NUMBER_PATTERN=cpp
+#REGEX_QUOTE=/
 
 #KEYWORD=Reserved words
 abstract
