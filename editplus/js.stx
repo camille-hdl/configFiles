@@ -23,6 +23,7 @@ case
 catch
 class
 const
+constructor
 continue
 default
 delete
