@@ -1,0 +1,9 @@
+{
+    "unused": true,
+    "eqeqeq": true,
+    "nonbsp": true,
+    "globalstrict": true,
+    "globals": {
+        
+    }
+}
