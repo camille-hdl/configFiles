@@ -3,6 +3,7 @@
     "eqeqeq": true,
     "nonbsp": true,
     "globalstrict": true,
+    "esnext": true,
     "globals": {
         
     }
