@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Night Owl",
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 18,
+    "editor.lineHeight": 38,
+    "problems.decorations.enabled": false,
+    "files.defaultLanguage": "markdown",
+    "workbench.sideBar.location": "left",
+    "explorer.openEditors.visible": 0,
+    "workbench.editor.showTabs": false,
+    "zenMode.hideLineNumbers": false,
+    "window.zoomLevel": 0,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.activityBar.visible": false,
+    "diffEditor.renderSideBySide": false,
+    "javascript.validate.enable": false,
+    "files.associations": {
+        "*.jsx": "javascriptreact"
+    },
+    "breadcrumbs.enabled": true,
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "wongjn.php-sniffer"
+    },
+}

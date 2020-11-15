@@ -1,5 +1,0 @@
-{
-    "esnext": true,
-    "preset": "crockford",
-    "requireMultipleVarDecl": null
-}

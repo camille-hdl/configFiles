@@ -1,7 +1,3 @@
-alias sshnet='ssh cloud.camille-hodoul.net'
-# launch node http-server on default ip
-alias httpsrv='http-server -a 127.0.0.1'
-
 ## Colorize the ls output ##
 alias ls='ls -G'
  
