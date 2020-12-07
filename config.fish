@@ -5,4 +5,5 @@ set -g fish_user_paths "/Users/camille/.npm-global/bin" $fish_user_paths
 set -g fish_user_paths "/Users/camille/.symfony/bin" $fish_user_paths
 set -gx GPG_TTY (tty)
 set -gx NODE_OPTIONS "--max-old-space-size=4096"
+set -gx HOMEBREW_NO_AUTO_UPDATE 1
 ulimit -n 64000
